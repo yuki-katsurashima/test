@@ -1,2 +1,2 @@
 README
-test
+test/master
