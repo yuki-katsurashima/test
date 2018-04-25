@@ -1,2 +1,2 @@
 README
-test/deployment/prod
+test/deployment/prod2
